@@ -1,0 +1,3 @@
+what's XSS and how you mitigate it
+what's CSRF and how you mitigate it
+difference between POST and GET: when would you use one and when the other
